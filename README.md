@@ -5,3 +5,4 @@ This is my first commit.
 Just me learning how to use git.
 Getting good at coding.
 To my futureself.
+just be happy.
